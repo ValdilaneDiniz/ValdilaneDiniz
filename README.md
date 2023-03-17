@@ -1,5 +1,23 @@
 ### Hi there 👋
 
+*Valdilane Diniz
+*Leonina
+*Gosta de viajar
+*E de praia
+
+- Coisas pra fazer
+1. Estudar
+2. Assistir vídeos
+3. Beber água
+
+Primeira aula
+[] boa
+[] ótima
+
+
+
+
+
 <!--
 **ValdilaneDiniz/ValdilaneDiniz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
