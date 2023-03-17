@@ -11,8 +11,9 @@
 3. Beber água
 
 Primeira aula
-[] boa
-[] ótima
+[] boa;
+[x] ótima
+
 
 
 
